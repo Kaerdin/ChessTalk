@@ -11,5 +11,5 @@ Le projet est encore en cours, certaines fonctionnalités sont expérimentales.
 - Intégration avec Lichess via API (seulement partie amical)
 
 ## État actuel
-Reconnaissance vocale : en cours de développement
-Interface avec Lichess : en cours de développement
+Reconnaissance vocale : en cours de développement  
+Interface avec Lichess : presque achevée
