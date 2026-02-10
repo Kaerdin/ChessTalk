@@ -22,11 +22,10 @@ def main():
         print("Aucune partie en cours trouvée.")
         return
 
-    # Lance l'interface graphique sur la première partie
+    # Affichage
     ui = GameUI(manager.games, start_index=0)
     ui.run()
 
 
-# Point d'entrée du programme
 if __name__ == "__main__":
     main()

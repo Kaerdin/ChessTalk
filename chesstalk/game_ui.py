@@ -56,6 +56,8 @@ class GameUI:
         self.coord_light = pygame.Color(245, 245, 220)  # très clair (pour square dark)
         self.coord_dark_brown = pygame.Color(92, 54, 17)  # marron foncé (pour square light)
 
+        
+
     # Charge les images des pièces depuis assets et les prépare pour l'affichage
     def load_pieces(self):
         # Dictionnaire { 'p': image pion noir, 'K': image roi blanc, ... }
