@@ -1,0 +1,6 @@
+# Dossiers Python
+__pycache__/
+*.pyc
+
+# Fichier avec l'API lichess
+token.json
